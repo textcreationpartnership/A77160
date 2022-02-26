@@ -1,0 +1,554 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sea-men undeceived: or, Certaine queries to a printed paper, intituled, The humble tender and declaration of many wel-affected sea-men, commanders of ships, and members of Trinity-House, to the commissioners of the navy. Wherein are may [sic] objections answered, very necessary for publick use in these times. / By R.B. a seaman, and member of the Trinity-House. Directed to marriners and sea-men in generall, and to all others among whom the fore-mentioned printed papers have been spread. But more especially it is commended to the underwriters of the said paper. Published according to order. Read all or none.</title>
+            <author>R. B. (Richard Baddeley)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77160</idno>
+            <idno type="STC">Wing B389</idno>
+            <idno type="STC">Thomason E459_22</idno>
+            <idno type="STC">ESTC R205101</idno>
+            <idno type="EEBO-CITATION">99864539</idno>
+            <idno type="PROQUEST">99864539</idno>
+            <idno type="VID">116769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116769)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E459[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sea-men undeceived: or, Certaine queries to a printed paper, intituled, The humble tender and declaration of many wel-affected sea-men, commanders of ships, and members of Trinity-House, to the commissioners of the navy. Wherein are may [sic] objections answered, very necessary for publick use in these times. / By R.B. a seaman, and member of the Trinity-House. Directed to marriners and sea-men in generall, and to all others among whom the fore-mentioned printed papers have been spread. But more especially it is commended to the underwriters of the said paper. Published according to order. Read all or none.</title>
+                  <author>R. B. (Richard Baddeley)</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The authours apologie to the reader" signed: Richard Badiley.</note>
+                  <note>A reply to: The humble declaration, tender, and petition of divers cordiall and wel-affected marriners, whose names are subscribed, to the Right Honourable the Lords and Commons assembled in Parliament.</note>
+                  <note>Annotation on Thomason copy: "Aug: 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  Royal Navy --  Early works to 1800.</term>
+               <term>Humble declaration, tender, and petition of divers cordiall and wel-affected marriners, whose names are subscribed, to the Right Honourable the Lords and Commons assembled in Parliament.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116769:1"/>
+            <pb facs="tcp:116769:1" rendition="simple:additions"/>
+            <p>THE Sea-men undeceived: OR, Certaine Queries to a printed Paper, Intituled, <hi>The humble Tender and Declaration of many wel-affected Sea-men, Commanders of Ships, and Members of</hi> Trinity-Houſe, <hi>to the Commiſsioners of the Navy.</hi>
+            </p>
+            <p>Wherein are may Objections anſwered, very neceſſary for publick uſe in theſe times.</p>
+            <p>By <hi>R. B.</hi> a Seaman, and Member of the Trinity-Houſe.</p>
+            <p>Directed to Marriners and Sea-men in generall, and to all others among whom the fore-mentioned printed Papers have been ſpread.</p>
+            <p>But more eſpecially it is commended to the under<g ref="char:EOLhyphen"/>writers of the ſaid Paper.</p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>Read all or none.</p>
+            <p>
+               <hi>LONDON,</hi> Painted by <hi>Matthew Simmons.</hi> 1648.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:116769:2"/>
+            <pb facs="tcp:116769:2"/>
+            <head>The Authours Apologie to the READER.</head>
+            <p>
+               <seg rend="decorInit">V</seg>NTILL this time it hath been ever as far from my thoughts to come forth in Print to publicke view, as it is for thoſe things of the greateſt antipothy to be reconciled to a mutuall agreement; Therefore I even wonder my genius ſhould be ſo metamor<g ref="char:EOLhyphen"/>phozed, which was occaſioned by the coming to my hand of a printed Paper intituled The humble Ten<g ref="char:EOLhyphen"/>der, and Declaration of many well-affected Marri<g ref="char:EOLhyphen"/>ners, and Seamen; Commanders of ſhips and Members of
+<hi>Trinity</hi> houſe, to the Commiſſioners of the <hi>Navy;</hi> which having ſeriouſly over looked, I was not a little amazed there at, conſidering what application might be made thereof by the generallity, in theſe diſtracted times; And afterwards finding my ſelfe not deceived in my expectation, in regard it had ſuch in<g ref="char:EOLhyphen"/>fluence upon a great number in City and Countrie, as to cauſe them to be poſſeſſed with an opinion, and therefore to averr (as to ſpeake truth with ſome reaſon, conſidering the latter clauſe in the afforeſaid printed Paper) that Seamen in generall (except a few inconſiderate perſons) doe juſtifie what thoſe aboard of the revolted ſhips have done, in refuſing to be under the obedience of the two Honourable Houſes of Parliament, where upon my thoughts were to have uſed my intereſt, that the Subſcribres might be called together to have ſpoken ſomething to them by word of mouth, in a way of perſwaſion to vindicate themſelves in ſome other printed paper, thereby to undeceive the people: But calling to minde how ſome diſſenting from them in the draft of their paper to which I ſpeake, was hiſſed at for ſpeaking but reaſon (as all reaſonable men not poſſeſſed with a prejudicate opinion againſt the man muſt confeſſe) I feared ſuch kinde of dealing my ſelfe, and therefore deſiſted from that courſe; whereupon I was troubled in ſo much that my thoughts ſeemed not to be contented, to abide any longer
+<pb facs="tcp:116769:3"/> impriſoned where they were conceived: but would violently breake forth; ſo I put pen to paper that I might give them vent, however thought to deale wiſely with them, though not to ſtifle, or deſtroy them, yet to hide them for my owne private uſe, and did ſoe till ſome weekes being paſſed and notice being given me that he that ſtands in the head of the underwriters was gone aboard the revolted ſhips; I then thought it my duty to caſt in my Mite amongſt others, of far better abilities, and although the unfitteſt and unworthieſt of all others (I ſpeake unfainedly in my owne thoughts it is ſo) yet ſeeing others ſilent, from an opinion that it may (by Gods bleſſing) accrue unto others benefit in a way of undeceiving them I thought good to proceed in the worke, and not valuing mens cenſures: but caſting my ſelf wholely upon Gods Providence, am at length willing it ſhould goe abroad to the publique view.</p>
+            <p>What I have to ſay it chiefely by way of Quere, upon certaine particu<g ref="char:EOLhyphen"/>lars in the above ſpecified printed Paper, wherein I hope I ſhall not diſcon<g ref="char:EOLhyphen"/>tent any that ſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes to be moſt concerned therein: but if any be diſconten<g ref="char:EOLhyphen"/>ted without any juſt cauſe given them, I ſay, as the Proverbe hath it <hi>honi ſoit qui mali penſe,</hi> evil be to him that evil thinks, I thinke none &amp; there<g ref="char:EOLhyphen"/>fore have hardly particularized any one man, neither beare I the leaſt private grudge to any one; Nay I think many of the underwriters to be as honeſt and well-meaning men as my ſelfe, and drawne into that buſineſſe through the deceit, or rather deceitfulneſſe of others, that doe make them believe they breake not the Covenant, although they expreſſe themſelves as if they would joyne with, or at leaſt ſtand as Newters in reference to what hath been done, or is in agitation to be done by thoſe aboard the revolted ſhips. My great aime is of this deceit to convince them. Jn fine God that knowes my heart knoweth I deſire not <hi>Salamander</hi> like to be imployed in the fire of Contention.</p>
+            <p>Thoughts of advancing the publique good hath put me upon this worke, and therefore I doe not feare that I ſhall be rewarded evil for the good inten<g ref="char:EOLhyphen"/>ded hereby. Nay I hope it will be digeſted (as it was ſuggeſted) in much love, that as many of us have done heretofore ſo hereafter on all occaſions we may eate and drink, and walk into the Houſe of God as friends; which ſhall be the earneſt deſire and Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>Your Friend, and Servant to his power</hi> Richard Badiley.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116769:3"/>
+            <head>
+               <hi>CERTAINE QUERIES to a printed paper intituled the</hi> Humble Tender and Declaration of many well-affected Marriners, and Sea<g ref="char:EOLhyphen"/>men, Commanders of ſhips, and Mem<g ref="char:EOLhyphen"/>bers of the
+<hi>Trinity</hi> houſe, to the Commiſſioners of the <hi>Nauie.</hi>
+            </head>
+            <p>Wherein that I may not be miſ-underſtood I ſhall premiſe by way of Caution theſe two enſuing expreſſi<g ref="char:EOLhyphen"/>ons.</p>
+            <p>
+               <seg rend="decorInit">F</seg>IRST, that although I doe abomi<g ref="char:EOLhyphen"/>nate, and deteſt the actions of thoſe aboard the revolted ſhips as an unpar<g ref="char:EOLhyphen"/>ralled breach of Truſt, and therefore judge my ſelfe bound by the National Covenant to uſe my uttermoſt ability (if I am called to it) to help to reduce them to their former obedience, whether they impede a Perſonall Treaty or not.</p>
+            <p>Yet know I am ſo far from being againſt a Per<g ref="char:EOLhyphen"/>ſonall Treaty with his Majeſtie (if it be the onely re<g ref="char:EOLhyphen"/>medy to cure our maladies) that I wiſh it were to night before to morrow morning; For what Chriſtian would deſire the woundes of the Kingdome to lie open
+<pb n="2" facs="tcp:116769:4"/> and not be healed up: But herein we ought to be very cautelous, not as it were forcing the Parliament to it be<g ref="char:EOLhyphen"/>fore the foundation of a well grounded peace be laid, leſt the remedy prove worſe than the diſeaſe, &amp; while wee ſeeke to evade running a ſhore upon
+<hi>Scilla,</hi> we fall upon <hi>Charibdais.</hi>
+            </p>
+            <p n="2">2. Secondly, that I may not be underſtood as one that is a <hi>Botufeu</hi> or kindle fire, and one that in theſe times of diviſion goes about to make the <hi>rent wider,</hi> or a perſon that is a ſtirrer up and inſtigater to the ſhedding of more bloud. I ſay far be it from me ſo to doe, I ſay, <hi>ſcatter them O Lord that delight in warre.</hi> Being verily perſwaded that as for oathes, ſo for innocent blood the Land mourneth; the late unſeaſonableneſs of the wea<g ref="char:EOLhyphen"/>ther ſeemed to ſhew it. Inſurrections and offences have come: but I am affraid woe will be to them that have been the cauſe thereof; and let me tell you friends if any ſuch thing ſhould fall out hereby, I ſhall wiſh my thoughts had proved abortive, and on fore-ſight there<g ref="char:EOLhyphen"/>of ſhould preſently deſiſt, and ſay as
+<hi>Naaman</hi> to <hi>Eliſha</hi> in another caſe, ſo in this thing that I have made ſuch progreſſe, <hi>the Lord be mercifull unto his ſervant,</hi> and I ſhould proceed no further.</p>
+            <p>But my conſcience beares me witneſſe, that I am ful<g ref="char:EOLhyphen"/>ly perſwaded it is the neereſt way to peace, and a mutu<g ref="char:EOLhyphen"/>all Agreement between our ſelves, to labour to unde<g ref="char:EOLhyphen"/>ceive one another; for now ſome amongſt thoſe that under wrote the printed Paper afore mentioned, ma<g ref="char:EOLhyphen"/>lignes and ſpeakes diſdainfully of others that diſſented from their opinion; I may truely ſay they know not for what, and peradventure they think in what they doe they keep to the Covenant, when every rationall man knowes they ſeem to breake many Articles thereof, as
+<pb n="3" facs="tcp:116769:4"/> to inſtance in that paſſage of the 6<hi rend="sup">th</hi> Article, wherein we promiſe not to make <hi>defection on the contrary part, or give our ſelves to a deteſtable Indifferency, or Newtrality in this cauſe, which ſo much concerneth the glory of God, the good of the Kingdomes, and honor of the King.</hi> And let me tell you, I hope hereupon thoſe men amongſt them who are moderate and have not their ſpirits greatly imbittered, will be ready to ſay, the truth is, now we ſee out miſtake; and therefore we will apply our ſelves to joyne heart &amp; hand againſt the Common Enemy, that there be no de<g ref="char:EOLhyphen"/>cay, nor breaking out, nor yet complaining in our ſtreets: but Merchants be encouraged to trade liberal<g ref="char:EOLhyphen"/>ly; and our ſelves may be freed ftom thoſe feares, that (if thoſe Revolters be ſooth'd up in their way) will often poſſeſſe us; as that from their example our own men may turne us a ſhore, and doe what they will with our ſhips upon every diſcontent.</p>
+            <p>Having thus by way of caution ſpoken to thoſe two particulars, I ſhall now proceed to the thing intended, <hi>(viz.)</hi> to endeavour the undeceiving of the under<g ref="char:EOLhyphen"/>writers, and others amongſt whome their printed Pa<g ref="char:EOLhyphen"/>pers may be ſpread.</p>
+            <p>Firſt, therefore I ſhal ſpeak a word or two to the occa<g ref="char:EOLhyphen"/>ſion of the meeting, which produced the printed paper, and the rather becauſe many of the Subſcribers may be ignorant thereof. The Honorable Houſe of <hi>Commons</hi> made the enſuing <hi>votes.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="resolution">
+                        <head>
+                           <date>
+                              <hi>Die Sabbathi</hi> 17. <hi>Junij</hi> 1648.</date>
+                        </head>
+                        <p>Reſolved that as great a Fleet as the Parliament ſhall think fit, be provided with all expedition, for the ſafe<g ref="char:EOLhyphen"/>ty of the Kingdome and the reducing of the revolters.</p>
+                        <closer>
+                           <signed>Hen. Elſing. Cler. Parli.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="resolution">
+                        <pb n="4" facs="tcp:116769:5"/>
+                        <head>
+                           <date>
+                              <hi>Die</hi> 17. <hi>Junij</hi> 1648.</date>
+                        </head>
+                        <p>Reſolved, That a Letter be written by the Lord high Admirall, to the Trinity Houſe, to imploy their beſt endeavours for the manning the Ships of ſuch a Fleet with cordiall and well-affected men.</p>
+                        <closer>
+                           <signed>Henry Elſing, Cler. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Whereupon the right Honorable, the Earle of <hi>War<g ref="char:EOLhyphen"/>wick,</hi> Lord high Admirall, did write to the Maſter and Wardens of the Trinity Houſe, a Letter, whereof fol<g ref="char:EOLhyphen"/>lowes the Copie, I hope without offence to any: For without it the errour theſe men run into, could not ſo clearly appeare.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <opener>After my hearty Commendations,</opener>
+                        <p>YOu cannot but take notice of the defection of ſome Ships of the Fleet, and the great prejudice that may be occaſio<g ref="char:EOLhyphen"/>ned thereby to the Trade of the Kingdome, beſides the inter<g ref="char:EOLhyphen"/>ruption it may give to publick ſettlement, which the Parlia<g ref="char:EOLhyphen"/>ment are effectually endeavouring. In order therefore to the ſafety of the Kingdome, the encouragement and preſervation of Trade, and the reducing of ſuch of the Ships as have re<g ref="char:EOLhyphen"/>volted from their duty: It is now in agitation by the Parlia<g ref="char:EOLhyphen"/>ments direction, That a convenient Fleet bee provided and ſet to Sea: And becauſe nothing is of more importance, then the getting of the ſaid Fleet manned with cordiall and well-affected Mariners, I doe therefore recommend it to you, (as that, that is of great concernment to the publick ſervice,) ſpeedily to imploy your beſt endeavours for getting ſuch ma<g ref="char:EOLhyphen"/>riners to ſerve in the ſaid Fleet, of whoſe courage and faith<g ref="char:EOLhyphen"/>full affection to the Parliament, you ſhall have very good aſ<g ref="char:EOLhyphen"/>ſurance, and of the proceedings to make as ſpeedie return un<g ref="char:EOLhyphen"/>to mee as may bee, by your diligent and effectuall compli<g ref="char:EOLhyphen"/>ance. And thereby you will not onely give a further
+<pb n="5" facs="tcp:116769:5"/> teſtimony of your care of the publique intereſt of the Kingdom and of your reſpect to the Parliament, the Houſe of <hi>Com<g ref="char:EOLhyphen"/>mons</hi> having by their Order publiſhed thoſe <hi>votes,</hi> a Coppy whereof I ſend you here incloſed; it being reſolved that your beſt endeavours in this behalfe be thus deſired, I ſay you will not onely anſwer their expectation thereby: but will alſo more oblige</p>
+                        <closer>
+                           <salute>To my very loving Friends the Maſter, Wardens, and the Aſsistants of the
+<hi>Trinity</hi> houſe.</salute>
+                           <signed>Your very aſſured love<g ref="char:EOLhyphen"/>ing brother and friend, <hi>Warwicke.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Whereupon the younger brothers (it ſeemes) were ordered to be called to a meeting at the
+<hi>Trinity</hi> houſe, which leads me to the firſt Quere.</p>
+            <p>
+               <label>
+                  <hi>Quaere</hi> 1.</label> Whether you think it were ſit, or juſtifi<g ref="char:EOLhyphen"/>able that ſome Members of the Corporation ſhould be called, and others left out (who will thinke other<g ref="char:EOLhyphen"/>wiſe but to carry on the deſigne intended the more ſmoothly) and in their roomes thoſe (not members of the Corporation ſhould be warned to appeare) and ſome of them invited to procure all the friends they could, that would be for a Perſonall Treaty? Now if this be not contrary to reaſon and the Covenant which in one Article tells us, wee ought no to make <hi>factions</hi> or
+<hi>Parties</hi> amongſt the people, let the world be judge.</p>
+            <p>But herein I would not be underſtood, as if I meant the Worſhipfull the Mr. Wardens and Aſſiſtants of the ſaid <hi>Trinity</hi> houſe were blameable herein, No; I am perſwaded better things of them: But I doubt not but their Officers are to blame therein, who (if reports belyes them not) ſome of them are very fit for ſuch a purpoſe.</p>
+            <p n="1">
+               <label>1 <hi>Object.</hi>
+               </label> But it may be ſaid, the Officers were ordered
+<pb n="6" facs="tcp:116769:6"/> to call all Seamen, or as many as could be got, as well not Members of the Co poration as thoſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that were.</p>
+            <p>
+               <label>Anſw.</label> But why were not all the Members firſt cal<g ref="char:EOLhyphen"/>led, as is uſually done in and among all Companies, and Corporations in ſuch caſes.</p>
+            <p>
+               <label>
+                  <hi>Quere</hi> 2.</label> Secondly, Whether at ſuch a meeting up<g ref="char:EOLhyphen"/>on ſuch an occaſion, (where every one ſhould have free liberty to ſpeake his minde) it can with the leaſt couler be juſtifiable, that when a Perſonall Treaty was pro<g ref="char:EOLhyphen"/>pounded, and one replyed ſaying (under favour) it is not the buſineſſe of the day, we are called to anſwer my Lord Admiralls Letter; let us therefore do that. (A very reaſonable requeſt) yet that this man ſhould be hiſt at by many, Nay, that ſome ſhould take the bold<g ref="char:EOLhyphen"/>neſſe to ſay it were a good turne to thruſt him and ſome others out of doores that diſſented from them, or that ſome ſhould add and ſay, they that are in the revolted ſhips were as honeſt as thoſe that were there; with what reaſon ſuch things ſhould paſſe unreproveable it ſeems to me very ſtrange.</p>
+            <p>And now to the printed Paper it ſelfe, it having for its frontiſpeice, or title; <hi>The humble tender and Declara<g ref="char:EOLhyphen"/>tion of many well-affected Marriners</hi> &amp;c. which leads me to the next Quere.</p>
+            <p>
+               <label>
+                  <hi>Quaere</hi> 3.</label> Thirdly, Whether men that are rationall and no way biaſſed, will not (at leaſt till you ſhew, you doe abominate the act of the Revolters, and will endea<g ref="char:EOLhyphen"/>vour their reducement) judge you well-affected to the Parliaments proceedings the contrary way, eſpe<g ref="char:EOLhyphen"/>cially if they looke back to the occaſion of your meet<g ref="char:EOLhyphen"/>ing, and how you rallied about from the thing that was propounded or deſired in the Letter, to have a Petition drawne for a Perſonall Treaty at that time, and com<g ref="char:EOLunhyphen"/>pare
+<pb n="7" facs="tcp:116769:6"/> that with the carrige of ſome at the time of the meeting, which is above mentioned; and withall ſhall conſider the latter part of the <hi>Declaration</hi> it ſelfe.</p>
+            <p>The next thing we come to is the <hi>Declaration</hi> it ſelf, which hath this firſt expreſſion, you deſire a petition may be drawne <hi>in the behalfe of Seamen and Marri<g ref="char:EOLunhyphen"/>ners.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Quaere</hi> 4.</label> Whether it had not been more faire to have deſired it might rather be drawne in the behalfe of many, or ſome Seamen and Marriners, eſpecially ſince you might perceive that at that time many were not of your minde, and many more might be found that were not of your opinion, as now more clearly appeares; for that above halfe a hundred that are and have been Commanders of ſhips &amp; Barques, equallizing as many of you in experience, have lately declared they doe abo<g ref="char:EOLhyphen"/>minate that unparalleld breach of Truſt the Revolters are guilty of; and they will uſe their utmoſt endeavour to reduce them, whether there be a Perſonall Treaty or not.</p>
+            <p n="2">
+               <label>2 <hi>Obj.</hi>
+               </label> But it may be you will object, would it not have bin more juſtifiable to have been noted in your <hi>memo<g ref="char:EOLhyphen"/>andum</hi> at the bottom of your late Petition, &amp; have ſaid there were ſo many Commanders of ſhips, and ſo many of them Members of the houſe: but to ſay fifty two of thoſe were Commanders of ſhips and Members of the
+<hi>Trinity</hi> houſe is not faire, when its clearly known not halfe of them were Members of that Society, and ſome were onely Maſters of Barques, and ſmall Veſſels.</p>
+            <p>
+               <label>Anſw.</label> To this I anſwer, there was ſome error in the printing becauſe ſome few amongſt the fifty two were Maſters of ſuch ſmall veſſels as you ſpeake on, therefore in the Originall it is only (note that fifty two
+<pb n="8" facs="tcp:116769:7"/> of theſe are Commanders, without theſe words, <hi>Of Ships.</hi> And then in the next place it's confeſſed, many of them were not members of the Trinity Houſe; and truth is, I was deceived, the <hi>Memorandum</hi> ſhould have noted, that ſome or many of them were members of the <hi>Trinity</hi> Houſe, being of that minde, we ſhould not doe the leaſt evill, that the greateſt good might come therby. Yet in that ſome of theſe were members of the <hi>Trinity houſe,</hi> it's juſtifiable by the example of the under writers of the printed paper I am now ſpeaking to, be<g ref="char:EOLhyphen"/>cauſe their <hi>Memorandum</hi> is, that we muſt note the ſub<g ref="char:EOLhyphen"/>ſcribers thereof were Commanders of Ships, mem<g ref="char:EOLhyphen"/>bers of the Trinity Houſe, and dwelling in and about <hi>London;</hi> when it is clearly known, ſome many of them were not Commanders of Ships, nor Members of the Trinitie-Houſe: and ſome of them, as I am informed, did not dwell in and about <hi>London.</hi> And now we come to the thing petitioned for, <hi>a perſonall Treaty.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Quere</hi> 5.</label> Whether moderate men will not judge it had been much better to have added to your requeſt for a perſonall treaty; provided there be care taken that ſuch a foundation of ſecurity bee laid, as may keep your ſelves, and thoſe that have adhered to you, from deſtruction; the rather, becauſe they could not but hear that both houſes of Parliament had voted a treaty with his Majeſ y before, &amp; had anſwered the <hi>Eſſex</hi> men, that they had the buſineſſe of ſetling the kingdome, un<g ref="char:EOLhyphen"/>der conſideration, and they would make a progreſſe therein with all the convenient ſpeed that might be.</p>
+            <p>Now the next thing I come unto, is this expreſſion, <hi>And it is humbly conceived by us, that we are obliged and bound thereto according to the Proteſtation, and ſolemne League and Covenant formerly taken by us to maintain and
+<pb n="9" facs="tcp:116769:7"/> defend with our lives, powers and eſtates, the true reformed Proteſtant Religion, his Majeſties Royall perſon, honour and eſtate, and alſo the power &amp; priviledges of Parliament, &amp;c.</hi> Doubtleſſe the words are good: But oh that there were in us a heart to perfome them.</p>
+            <p>
+               <label>
+                  <hi>Quere</hi> 6.</label> Whether men that compare the afore<g ref="char:EOLhyphen"/>mentioned paſſage with what follows, will not be ready to ſay, Theſe Men ſpeak good words, but they ſeem to mean nothing leſſe. Nay, will not many bee ready to ſay, Theſe men ſpeake good words, but they ſeem to mean nothing leſſe. Nay, will not many bee ready to ſay, This phraſe is onely to make the paper ſeeme the more plauſible, (as <hi>Pragmaticus</hi> and <hi>Elencticus</hi> ſo much bragge of in their Pamphlets, God forbid them that know the underwriters ſhould think ſo of moſt of them. But if any ſuch were, let me ſay to them as <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> by his ſonnes
+<hi>Simeon</hi> and <hi>Levi,</hi>
+               <note place="margin">Gen.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>My ſoule come not in<g ref="char:EOLhyphen"/>to their ſecret, my glory be not joyned to their Aſſembly.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Object.</hi> 3.</label> But you will ſay, we did not onely ſeem, but we meant really to keep to the Covenant.</p>
+            <p>
+               <label>Anſw.</label> Indifferent men will tell you, your expreſſi<g ref="char:EOLhyphen"/>ons ſhew, you make as wrong an interpretation of the Covenant, as poſſible can be. Doe not your words ſeem to declare as much, the Parliament ordered you ſhould be called to give your beſt aſſiſtance that faith<g ref="char:EOLhyphen"/>full men may be provided to man the Ships that are to reduce the Revolters: You anſwer, Yea, if they, <hi>viz.</hi> the Revolters, ſhall impede the thing
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou deſire. Now tel me, Is not that expreſſion as much as to ſay, You wil either be Newters, or elſe joyn with their enemies, the worſt of which are Revolters: And doth not ſo do<g ref="char:EOLhyphen"/>ing croſſe the end of the Covenant, which was made to the end that men might have ſome weight upon
+<pb n="10" facs="tcp:116769:8"/> their conſciences, to keep them from revolting from the Parliaments of
+<hi>England</hi> and <hi>Scotland,</hi> and from joy<g ref="char:EOLhyphen"/>ning with, or newtralizing with Revolters in this com<g ref="char:EOLhyphen"/>mon cauſe, which ſo much concernes Gods glory and the publicke good. Is there not an expreſſion telling, that neither directly nor indirectly, we are to make defection to the contrary part, or give our ſelves to a deteſtable indifferency, or new trality in this cauſe, which ſo much concerns Gods glory by advancing Re<g ref="char:EOLhyphen"/>formation in Religion, and uniting the Kingdoms of <hi>England, Scotland, &amp;c.</hi> And doe you think theſe Re<g ref="char:EOLhyphen"/>volters are more likely to advance the one, or en<g ref="char:EOLhyphen"/>devour the other, then were the Earl of <hi>Marlbrough</hi> his Forces by Sea, or the Earle of <hi>Newcaſtles</hi> heretofore by land. About which work of Reformation, (while we are ſpeaking) give me leave (as I go along) a little to ex<g ref="char:EOLhyphen"/>poſtulate with you; Either it is the truth we ſhould co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>tend for, or not. That we ſhould not, I tbink no Chriſtia<g ref="char:cmbAbbrStroke">̄</g> that hath taken the Covenant will affirm: If we ſhould, eſpecially (ſince it hath coſt ſo much treaſure and blood to purchaſe in any meaſure) ſhall we now be ſo far from being valiant for the truth upon earth, that we ſhall ſell it for very trivials; or as the <hi>Gadarens</hi> dealt with our Saviour, ſhall we baniſh it, preferring our worldly luſts and earthly enjoyments before it? At this paſſage it may bee ſome will be ready to ſay, He begins to make a preachment. However, before I paſſe from this paſſage in reference to the Covenant, I muſt make a further digreſſion to expreſſe my thoughts a<g ref="char:EOLhyphen"/>bout it.</p>
+            <p>Firſt, that although I my ſelfe have taken the Cove<g ref="char:EOLhyphen"/>nant, and intend as God ſhall enable me, to keep cloſe to it in the ſenſe it was expounded to me when I took
+<pb n="11" facs="tcp:116769:8"/> it: and although it be farre from my thoughts to diſ<g ref="char:EOLhyphen"/>courage any from taking it, yet ſeeing it is made ſuch a noſe of Wax of, and ſo many turn it about to their ſeverall intereſts, leaving the right rule it ſhould be ex<g ref="char:EOLhyphen"/>pounded by, I heartily wiſh, care may bee taken, that men put in Offices, and places of Truſt, may be judged fit and faithfull by ſome other way and principles, then by their meere taking the Covenant, leſt ſome men of ſelfiſh and corrupt mindes (after the example of theſe Revolters in the Ships) ſhould for by reſpects, betray their Truſt, and ſo open a way either for the ruine of the Parliament, and thoſe that have adhered faithfully to them all along; or, which is worſe (if worſe may be) like thoſe that are bought and ſold as ſheep, they and we ſhould be led to the ſlaughter before we know who hurts us.</p>
+            <p>But now to return again to the printed paper, having toward the later end this paſſage,
+<hi>And if they ſhall im<g ref="char:EOLhyphen"/>pede a perſonall treaty; then with our lives and fortunes we will endeavour to reduce them.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Quere.</hi> 7.</label> The <hi>Quere</hi> then is, Whether the well-affe<g ref="char:EOLhyphen"/>cted (amongſt which they profeſſe themſelves that fra<g ref="char:EOLhyphen"/>med the paper) will not think by that clauſe, you put a meere mock upon the Parliament: For who knowes not but the Ships revolted appeare as thoſe that would joyn with the County of Kent, one part of whoſe de<g ref="char:EOLhyphen"/>ſire, or pretence, was expreſſed to bee for a perſonall treaty. And if ſo, what rationall man can thinke it's likely, or with the leaſt colour probable, they ſhould goe to the Iſle of <hi>Wight,</hi> to impede his Majeſties paſ<g ref="char:EOLhyphen"/>ſage over towards a perſonall treaty, or otherwiſe, ſome think ſuch a kind of impeding you mean. But if it were not inte<g ref="char:cmbAbbrStroke">̄</g>ded as a mock, as I think verily it was not,
+<pb n="12" facs="tcp:116769:9"/> will not ſuch men (eſpecially they that know what in<g ref="char:EOLhyphen"/>fluence it had upon many men in the Countreyes) con<g ref="char:EOLhyphen"/>clude it a peece which hath much wounded the Parlia<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>ts cauſe, inſomuch as they may ſay by you, as in ano<g ref="char:EOLhyphen"/>ther caſe <hi>Caeſar</hi> ſaid in the Senate Houſe; What, you my ſon <hi>Brutus:</hi> What, and you againſt me alſo? What, you Marriners and Sea-men, for whom we have done ſuch things, what you alſo againſt us? You cannot be ignorant, that whereas in former times the ordering of the Navie, and the command at ſea, was uſually put into the hands of Gentlemen that were Land-men, yet ſince our fitting (under King and Parliament) men of your own coat have been placed at the Stern to ma<g ref="char:EOLhyphen"/>nage the maritine affaires of the Kingdome, and what elſe chiefly concernes the Navie: inſomuch that Ma<g ref="char:EOLhyphen"/>ſters of Merchant-men, being imployed in the ſervice, have uſually now the command of their own ſhips, not co<g ref="char:cmbAbbrStroke">̄</g>mon before. And for their better incouragement in thoſe &amp; the other ſhips, there is larger allowance for wages given to the Marriners, then was given hereto<g ref="char:EOLhyphen"/>fore; and that wages from time to time punctually paid them, a priviledge above all others imployed in publick affaires: and do you thus requite us? I beſeech you therefore acknowledge your miſtake, or expreſſe your ſelves what you fully meant in time, leſt great provocations make great alterations.</p>
+            <p>But again, looking among the Names, I cannot but diſcerne that many amongſt them have been in the ſer<g ref="char:EOLhyphen"/>vice of the King and Parliament, which makes me pre<g ref="char:EOLhyphen"/>miſe another <hi>Quere.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Quere</hi> 6.</label> Whether indifferent men will not be rea<g ref="char:EOLhyphen"/>dy to judge, (although I doe not think ſo of many of you) you acted againſt the kings forces for by reſpects,
+<pb n="13" facs="tcp:116769:9"/> as to gain, wealth, honour, or for ſome ſuch ſiniſter end: and now that the Kingdome hath more immedi<g ref="char:EOLhyphen"/>ate need of you in their low eſtate; now you leave them, and either ſide with, or at leaſt (by your paper) ſeeme to connive with them that are revolted from their obedience; and if you were upright at your en<g ref="char:EOLhyphen"/>gagement, and not byaſſed with by-ends, why then keep you not to your integrity while you dye?</p>
+            <p>I appeale to you all that were the ſubſcribers: Will it not be of ill conſequence, that it ſhould bee told a<g ref="char:EOLhyphen"/>broad, and publiſhed among the Heathen, among the Turkes, Jewes, Armenians, and thoſe other Nations, Italians, Spaniards and French, that uſe to honour us in that as they have truſted their perſons and eſtates with us, ſo we have carried them up and down, and ne<g ref="char:EOLhyphen"/>ver betrayed our Truſt. I ſay again, when it ſhall bee ſaid, we joyn with, or at leaſt connive at thoſe that have not broken their truſt with Heathens, but with their own Nation, the Repreſentatives of their own King<g ref="char:EOLhyphen"/>dome, &amp;c.</p>
+            <p>
+               <label>Object.</label> But you may ſay, We ſee many are ſeeming to ingratiate themſelves into the Kings favour, that they may ſave their eſtates, and gain his good eſteeme, and why ſhould not we, ſome of us being thoſe that went up with our Boats to
+<hi>Weſtminſter,</hi> and thereby gave him ſuch great diſtaſt.</p>
+            <p>
+               <note place="margin">As in Mr. <hi>Calamies</hi> ſpeech at <hi>Guild-hall.</hi>
+               </note>I anſwer, An unjuſt way of doing that which other<g ref="char:EOLhyphen"/>wiſe may lawfully be done, is not the way to have an eſtate: For God may ſo order it, that though you be thought no Round-heads, yet your goods may: your goods may be <hi>Gybalins</hi> though you be <hi>Gwelfes,</hi> as the ſtorie is.</p>
+            <p>To conclude, I will not take upon me to obteſt you,
+<pb n="14" facs="tcp:116769:10"/> but I intreat and earneſtly deſire you, by your oath and covenant, and by all the good that the Parliament hath done for you, that you ſide not with the Revolters, or give your ſelves to a deteſtable Indifferencie or New<g ref="char:EOLhyphen"/>trality in this cauſe, which ſo much concernes Gods glory, and the Kingdoms good: But in time ſhew that you abominate that unparalleld breach of truſt by joy<g ref="char:EOLhyphen"/>ning with others, and that freely to reduce the afore<g ref="char:EOLhyphen"/>ſaid ſhips to their former obedience.</p>
+            <p>
+               <label>Object.</label> But ſome may object, If we bee faulty, or blame-worthy, could you not tell us of it between you and us, or ſome other way; and have not you your faults as well as others? Would you have them writ<g ref="char:EOLhyphen"/>ten upon your forehead, &amp; publiſhed to all the world in print, as you doe by ours, ſetting it home with a kind of violence.</p>
+            <p>The anſwer is in two parts, Firſt, when I declare them in that kind, to inlect or harden any others in a way that is not good, doe it with a very good will, it ſhall be ſuch a kindneſſe to me, that ſhall not break my head, no nor my ſleep neither in the leaſt (if I know my own heart.</p>
+            <p>Secondly, had not the blow of your Declaration ſounded farre and neere, this Eccho, or Countermand had not ſounded ſo lowd: For then I ſhould have loſt the golden Rule, <hi>Doe as you would be done by:</hi> Or that Rule, <hi>Tell thy brother his fault firſt betweene him and thee.</hi>
+            </p>
+            <p>
+               <label>Obj.</label> But it's like ſome may object, It's a bad bird will foule his own neſt.</p>
+            <p>
+               <label>Anſw.</label> I appeale unto all unbyaſſed men in the world, whether it tends not rather to cleanſe it, when it ſhall be ſaid at a great and generall meeting in
+<hi>Lon<g ref="char:EOLhyphen"/>don:
+<pb n="15" facs="tcp:116769:10"/> Seamen without exception are perfidious, ſo that there is no truſt in them.</hi> And worſe words alſo, if I am not miſ informed.</p>
+            <p>
+               <label>Obj.</label> But (peradventure) ſome may yet object, Now you have ſaid all you can, we do not judge that thoſe aboard the revolted ſhips, have betrayed their truſt, be<g ref="char:EOLhyphen"/>cauſe they ingaged upon ſuch tearmes as are expreſſed in the Covenant. And that it may appeare ſo, where<g ref="char:EOLhyphen"/>fore elſe were they called to take it, but as an argument to prove that they were fit men for the ſervice and im<g ref="char:EOLhyphen"/>ployment. Now if it appeares they wheeled about on purpoſe to maintain the Covenant, or ſome chiefe branch of it, as that wherein we oblige our ſelves to preſerve the Kings Majeſties perſon, honour and au<g ref="char:EOLhyphen"/>thority, that the world may beare witneſſe (with our conſciences) of our loyalty, &amp;c. And this they do out of conſcience, in that they ſee this clauſe ſo much ſligh<g ref="char:EOLhyphen"/>ted amongſt thoſe that ſhould ſee it performed, as well as any of the other parts of the Covenant.</p>
+            <p>
+               <label>
+                  <hi>Anſ.</hi> 1.</label> I wiſh from my heart, ſome further endea<g ref="char:EOLhyphen"/>vours had been uſed to have ſetled his Majeſtie and this Kingdome in their juſt Rights and Priviledges. For no doubt the one with the other ought to be equally en<g ref="char:EOLhyphen"/>deavoured, or at leaſt that ſome further reaſons might have been given of the obſtruction, that (if poſſibly it could have been prevented) there might not have been ſo much effuſion of blood, as now is like to be. Yea, ſuppoſe I joyne iſſue with you, and confeſſe, that the Honorable Houſes of Parliament (on whoſe part theſe matters chiefly lye upon) have not taken thoſe oppor<g ref="char:EOLhyphen"/>tunities that (by Gods providence) have been put in<g ref="char:EOLhyphen"/>to their hands, to redreſſe a great part of thoſe grie<g ref="char:EOLhyphen"/>vances which is the cauſe of ſo much complaint at this
+<pb n="16" facs="tcp:116769:11"/> time; yet notwithſtanding Revolters, nor their Abet<g ref="char:EOLhyphen"/>tors, are any thing to be excuſed from being guilty of betraying their truſt, ſince out of tenderneſſe of con<g ref="char:EOLhyphen"/>ſcience to keep that particular Article above mentio<g ref="char:EOLhyphen"/>ned, they did not firſt acquaint the Parliament (by who<g ref="char:cmbAbbrStroke">̄</g> they were intruſted) of their intention to deſiſt from their ſervice upon that ground, &amp; were ready to deliver back the ſhips into the hands of thoſe they ſhould ſend aboard them to look after them. But now to deny the Lord high Admirall &amp; others admiſſion, which were deſired to go down to take charge thereof, and without order to goe out of the Kingdome with the ſhips, up<g ref="char:EOLhyphen"/>on any pretence whatſoever, it is a betraying of their truſt; inſomuch that I may appeale to all reaſonable men, whether it may not be judged one of the greateſt wounds that ever the Proteſtant Religion did receive, in regard that whereas the Hiſtory tells us, ſome of the late Kings of <hi>France,</hi> (though Roman Catholiques themſelves) have above all others imployed Prote<g ref="char:EOLhyphen"/>ſtants, ſuch as were of the Scottiſh Nation, to be of their Life-guard, and otherwiſe in places of truſt neere their perſon, upon this account, that whereas the Pa<g ref="char:EOLhyphen"/>piſts hold it no ſinne, upon ſome occaſion privatly to deſtroy and make away Kings themſelves: yet the prin<g ref="char:EOLhyphen"/>ciples the Proteſtants held, were in no caſe to betray their truſt. Now then in regard of this revolt that I have been chiefly diſcourſing of, how for ever are their mouthes ſtopt in juſtifying and honoring of us for that particular principle of Religion, eſpe<g ref="char:EOLhyphen"/>cially if we ſhall goe on ſaying, <hi>A confederacie with them that have made a confederacy</hi> in that kind.</p>
+            <p>Secondly, to make a fuller anſwer to that objection, that (if poſſibly) thoſe may be undeceived that thinke
+<pb n="17" facs="tcp:116769:11"/> in what the Revolters and their Abettors have done, and doe, yet they cannot be reckoned among Cove<g ref="char:EOLhyphen"/>nant-breakers (I care not who knoweth it) I never took pleaſure in, or any way cared for tautologies, a<g ref="char:EOLhyphen"/>mongſt which ſome may ſay the enſuing paſſage may be tearmed, having ſpoken to the Covenant before: however, as the proverb hath it, <hi>Neceſsity hath no law,</hi> therefore I muſt crave excuſe herein, and ſo proceed.</p>
+            <p>Can conſcience of covenant keeping argue for cove<g ref="char:EOLhyphen"/>nant breaking? or can religion be pleaded for keeping one Article of the Covenant by breaking another? Or is the Covenant againſt it ſelfe, that he that reſolves to keep it muſt reſolve to break it. As Divines tell us that expoſition concerning one particular place of Scripture that croſſeth the end &amp; ſcope of the whole, is wrong conſtruction. And ſo for the Covenant, it is not to be obſerved in a divided ſenſe, that is, we are not to obſerve one part of the covenant apart from the reſt. For every particular Article hath ſuch dependance up<g ref="char:EOLhyphen"/>on the other, that it cannot be ſeparated; ſo that if you plead no breach of covenant, becauſe (as you ſay) you doe no other then what you are bound to by the third Article: yet that plea is not ſufficient, becauſe that Article is not to be kept by it ſelfe, but as it ſtands in conjunction with the reſt. Beſides, in that very Ar<g ref="char:EOLhyphen"/>ticle there is conjoyned ſo farre, <hi>The Rights and Privi<g ref="char:EOLhyphen"/>ledges of the Parliament, and the Liberties of the King<g ref="char:EOLhyphen"/>domes, together with the preſervation of the Kings Ma<g ref="char:EOLhyphen"/>jeſties Perſon and Authority,</hi> that if you part them, &amp; go to work as the Revolters have done, you proceed directly againſt that very Article, and (I may boldly ſay) break the whole Covenant. For was not the Co<g ref="char:EOLhyphen"/>venant made (as I have hinted it before, to detect the
+<pb n="18" facs="tcp:116769:12"/> Parliaments enemies, and unite their friends, was not the main end of the Covenant (ſo far as it was civill) to joyn us together by a ſolemne bond, with hands lifted up to the moſt high God, though not to be againſt the Kings Majeſty in the preſervation of the true religion, and the liberties of the Kingdome, yet to be againſt him and his party, as fighting to deſtroy the kingdom. With what face then can men plead the Covenant in revolting from the Parliament and their party, to joyn with the Kings party? Was it not a trick of <hi>Judas</hi> to betray Chriſt with a kiſſe, and ſhewes of love? And doe not men deale ſo by the Covenant, deſtroying the very life and ſpirit of it, under a pretence of conſci<g ref="char:EOLhyphen"/>ence to keep it? Doth the Covenant bind us to <hi>Judas</hi> it by delivering up the Kingdomes intereſt reſiding in the Parliament, into the hands of the ſonnes of vio<g ref="char:EOLhyphen"/>lence, that ſeek to apprehend and deſtroy it by ſeverall inſurrections with ſwords and ſtaves? Doth the Co<g ref="char:EOLhyphen"/>venant bind us to joyn with thoſe that doe not onely hate it, but them that have taken it, and for no other cauſe but their faithfulneſſe in ſo doing. To pretend covenant in joyning with a known common enemy a<g ref="char:EOLhyphen"/>gainſt the Parliament and their party; what is it but with <hi>Baalack</hi> and
+<hi>Baalam</hi> to pretenc ſacrificing with a Royall deſigne to curſe <hi>Iſrael?</hi> Are we not bound by the covenant to bring delinquents to condigne puniſh<g ref="char:EOLhyphen"/>ment, and ſhall we joyn with them, and plead covenant? In fine, if I ſee any thing between light and darkneſſe, theſe kind of men and their abettors, be they what they will, whether in <hi>England</hi> or
+<hi>Scotland,</hi> or whether in Citie or Countrey (and put in the Army too if you pleaſe) (having lifted up their hands to the high God to keep the Covenant) they have falſified their oath,
+<pb n="19" facs="tcp:116769:12"/> and ſo without repentance make themſelves liable to thoſe feareful judgments, threatned by the word of the Lord againſt covenant-breakers, as Maſter <hi>John Vicars</hi> worthily ſets down about the Covenant.</p>
+            <p>
+               <note place="margin">Note.</note>I would not be underſtood as if I would have no kind of compliance with ſuch as have been Delinquents, and termed Malignants; I clearly give up my opinion, that many that were accounted ſuch, were and are men of excellent naturall abilities, and otherwiſe, very uſefull in the Common-wealth, and therefore ſhewing how they have been led into a ſnare by the deceitfulneſſe of others, or having paid their compoſitions deſiring to ſit downe and live peaceably and quietly by their neigh<g ref="char:EOLhyphen"/>bours in the Common-wealth God forbid we ſhould heave dirt in their faces, by giving them any provoking termes, nay rather ſhould wee not more and more con<g ref="char:EOLhyphen"/>vince them, by ſhewing of love and reſpect to them, giving them to ſee we deſire peace by all meanes, It's thoſe that doe endeavour to raiſe and maintaine a new warre, with whome (I ſay) we ought not to have any complyance, for they being ſuch by whome God hath ſuffered once againe the ſword to be drawne; <hi>The ſword the ſword, the ſword of the Lord of Hoſts; the bright glitering,</hi> or as the Prophet
+<hi>Ezekiel</hi> hath it, <hi>The well furbiſhed ſword, threatning to eate yet more fleſh, and drink yet more blood.</hi> Leſt we a nong them may in all likely-hood fall into the pitt they have digged for others, &amp; with them drinke of the ſame cup, yea (it may be) the dreggs of it, which they have provided for the innocent, thoſe a<g ref="char:EOLhyphen"/>gainſt whome the points of their ſwords and inſtru<g ref="char:EOLhyphen"/>ments of warre are ſet, and they are ready to ſhoot at, and truely that is (if I am not deceived) at the upright of heart.</p>
+            <p>
+               <pb n="20" facs="tcp:116769:13"/>
+               <hi>Object.</hi> But peradventure ſome may further ſay, ſup<g ref="char:EOLhyphen"/>poſe his Majeſty is, and hath been willing to graunt <hi>whatſoever ſhall bee conducing to the ſetling of the true Reformed Religion, the Liberty of the Subject, and Priviledges of Parliament;</hi> and yet hath not been hearkened unto by thoſe whome it chiefly concerneth: But have (as you did ſeeme to confeſſe) ſlipped their opportunities. Then have wee not reaſon to be againſt them, and not be accounted Covenant breakers?</p>
+            <p>
+               <label>Anſw.</label> Firſt, If that were proved which you in<g ref="char:EOLhyphen"/>ſtance in your Objection, then you may be the more ex<g ref="char:EOLhyphen"/>cuſable: but who ſhall be Judge therein, was not the Parliament called together by his Majeſties Writ to conſult of the great and weighty affaires of the King<g ref="char:EOLhyphen"/>dome. And afterwards had they not liberty by Act of Parliament to ſit whil'ſt theſe things afore-named were ſettled to their mindes, that they themſelves ſhould think it fit to diſolve; Againe, did not wee by a free Election chooſe out Burgeſſes? to ſee that ſecurity might be given, (if poſſible) that Reformation of Reli<g ref="char:EOLhyphen"/>gion, the Liberty of the Subject, and conſequently the Priviledges of Parliament might be ſettled and confir<g ref="char:EOLhyphen"/>med, that ſo our peace might be eſtabliſhed as the Sea, and our righteouſneſſe might flow in as a mighty ſtreame; Now then, either wee did chuſe them ſuch men as <hi>Jethro</hi> councelled
+<hi>Moſes</hi> to chuſe. <hi>Able men, ſuch as feared God, men of truth, hateing covetuouſneſſe;</hi> or wee did not, if ſuch men were choſen, I doubt not but you will confeſſe they are fitter to judge when ſecurity is given for what is above mentioned than wee are; and if the men choſen were not ſuch men as I have herein expreſſed; I thinke the fault doth lie upon thoſe that did not looke better and more norrowly to it at their
+<pb n="21" facs="tcp:116769:13"/> choice, and then wee muſt have patience, or by way of humble Remonſtrance wee may acquaint them with our greivances, and Petition for redreſſe: But to pre<g ref="char:EOLhyphen"/>cipitate their Counſels, and to indeavour to deſtroy them and their friends, upon any pretence whatſoever; I conceive (with humble ſubmiſſion to better judg<g ref="char:EOLhyphen"/>ments) is a very great breach of Covenant.</p>
+            <p n="2">2. Yet further, to Anſwer you more fully, you ſay, the Parliament have (as I ſeeme to confeſſe the ſame) ſlipt ſome opportunities in which ſome further indea<g ref="char:EOLhyphen"/>vours might have been uſed, to have prevailed with his Majeſtie for a ſafe and well grounded peace, or at leaſt to have ſhewed ſome further reaſon of the obſtruction, that if poſſible ſome of the damage that is now like to fall upon the Kingdome by this new warre, might have been evaded.</p>
+            <p>
+               <label>Anſw.</label> Though I wiſh ſomething to the purpoſe you doe here expreſſe, yet I doe not poſitively affirme they have loſt any opportunity for accompliſhing of the aforenamed ends, becauſe they ſee what we doe not ſee, and know what wee are not made accquainted with<g ref="char:EOLhyphen"/>all: But ſuppoſe I againe joyne iſſue with you, and ful<g ref="char:EOLhyphen"/>ly confeſſe what you may ſay, I ſeeme to doe, yet if it appeare an opportunity hath been loſt out of no by-end, or for no ſiniſter reſpect, nor yet through wilfull neglect: but from a jealouſie or feare, leaſt they might go as well to faſt as to ſlow, the face of things looking as they did at that time, and I add, if it appeare they uſed their beſt indeavours that all intereſts might be juſtly ſetled, and the Kingdome fully ſatisfied by their waiting a little longer; if now the event hath not fallen
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut according to their expectation, and the Kingdomes deſire: Shall wee go about therefore to deſtroy them
+<pb n="22" facs="tcp:116769:14"/> and their Friends?<note place="margin">Simile.</note> God forbid, Give me leave to make one ſimilitude, I ſhall leave the application thereof to your ſelves; Have not ſome of us that have been in<g ref="char:EOLhyphen"/>truſted with Ships and other mens Intereſts, to ploy a Voyage ſometime, have we not loſt an opportunity by which the proprietors have ſuffered much damage, yet it not being wilfully done by us, (we being as willing to be doing for accompliſhment of their deſire as they themſelves could be) however the weather looking un<g ref="char:EOLhyphen"/>towardly we have waited a little as loth to proceed, leſt wee ſhould hazard all wee have been truſted with, but in proceſſe of time it proved, by not taking the op<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ortunity, through our timorouſneſſe our friends have ſuffered loſſe, however having done for the beſt; would wee think it juſtice, reaſon, or conſcience, that our Imployers ſhould ſeeke to deſtroy us upon that ground? If they ſhould ſome of the Heathen would condemne them (for amongſt which) the ſtory tells us, That ſome of their Emperours have called their Commanders ſent by them into the Warres, to give accompt of their actions, and upon hearing every ones reaſon for what paſſed, and was done by them whilſt they were abroad, ſeriouſly weighing each mans ſaying for all their tranſactions: have in their wiſdome beſtowed as much honour, or more upon them which have loſt ſtrong Holds, and cauſed them to be much damnified, as upon thoſe that have gained Cities and ſtrong holds, and greatly advanced them, being not a<g ref="char:EOLhyphen"/>ble to give ſuch good reaſons of their proceedings, as them by whom they had ſuffered the greateſt dam<g ref="char:EOLhyphen"/>mage, I ſpeake as to wiſe men that may know my mea<g ref="char:EOLhyphen"/>ning, and if ſo, what I have to ſay is, <hi>Doe as yee would be done by.</hi>
+            </p>
+            <p>
+               <pb n="23" facs="tcp:116769:14"/>
+               <hi>Obj.</hi> 8. Yet again it may be ſome will further object While you have been labouring to convince others wherein they break their Oath and Covenant, yet you ſeem to have no reſpect to your own oath, which was taken by you at your admittance into the Corporati<g ref="char:EOLhyphen"/>on, or Brotherhood of the <hi>Trinity Houſe.</hi> And beſides, would you not have a reformation in officers that are to be intruſted in the publick affaires, that your ſelfe may be prefer'd therein.</p>
+            <p>The anſwer is in two parts, as is the objection: but firſt, by way of introduction, Are we not fallen into ſuch an age wherein it is ſo uſuall for one man to aſ<g ref="char:EOLhyphen"/>perſe and raiſe falſe reports of another, that it would be no wonder if I be alſo (among other farre better then my ſelfe) falſly accuſed: I appeale to you, though yet we are not living at ſuch a time, wherein it's mens ordinary and common practice to deale one with ano<g ref="char:EOLhyphen"/>ther as
+<hi>Jeſabel</hi> did by <hi>Naboth,</hi> that is,<note place="margin">1 Kings 21.10.</note> ſubornefalſe wit<g ref="char:EOLhyphen"/>neſſes againſt each other, ſaying, This man blaſphemes God and the King, let him die: yet is it not ordinary to accuſe one another as her husband <hi>Naboth</hi> did <hi>Eliajah,</hi>
+               <note place="margin">1 King. 18.17.</note> ſaying, <hi>Are not thou he that is the troubler of Iſrael?</hi> Or thus, <hi>Is it not you, and ſuch as you are, that trouble the king<g ref="char:EOLhyphen"/>dome? Were it not for you, we might be at peace and quiet;</hi> Dealing with honeſt men therein juſt as you may ſometimes obſerve pick-pockets doe, who having cut a purſe, will with the firſt, be ready to lay hold of an innocent man, crying out, This is the man, this is the man, when God and their own conſciences know they themſelves are guilty of the fact. Where is the well and Fountain head from whence the late revoltings and inſurrections came? Doe you not think it's among ſuch men as are very active in charging others to be
+<pb n="24" facs="tcp:116769:15"/> the troublers of the kingdome? I doubt not but ſome among us run to the name of the Lord as to a ſtrong tower of refuge: but how common is i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now grown for men to run to lies for refuge, yea and to be ſtrengthe<g ref="char:EOLhyphen"/>ned the better to carry on their deſignes. To inſtance in one or two particulars among many hundreds, or many thouſands, I feare: A little before, or juſt upon the revolt of the ſhips, a report muſt be raiſed, that Col. <hi>Rainsborough</hi> ſhould (without the order of the Parliament) impoſe a new oath upon thoſe that paſſed through the
+<hi>Downs;</hi> and to this purpoſe, to make it the more credited, ſome declare up and down, they have ſeen letters, wherein Mr. <hi>James Goody</hi> writes as much, (and withall how the Admirall got an anchor a<g ref="char:EOLhyphen"/>board, and heft a peeke with the other. And in fine, would have fired upon him, but that his men denied it, and all becauſe he refuſed the new oath. Much longer is the ſtory of the particulars of that bu<g ref="char:EOLhyphen"/>ſineſſe (which if there be truth in men, the Maſtee, and others that were aboard the Admirall) affirme is a long L—y. Another he raiſes a report upon the ri<g ref="char:EOLhyphen"/>ſing in <hi>Kent,</hi> that hee ſaw certain Ferkins of Silver, (which were generally ſaid to be Parliament mens) that were taken out of a Frigot at <hi>Dedford,</hi> I hope no tru<g ref="char:EOLhyphen"/>er then that report of a Bull turned out of <hi>Colcheſter</hi> with Flax fired upon the back of it; or the report of him that ſaid he ſaw Colonel <hi>Cromwel</hi> inter'd in
+<hi>Gloce<g ref="char:EOLhyphen"/>ſter:</hi> Nay, I beleeve theſe reports were only raiſed, that when the inſurrections intended were brought about and accompliſhed, then honeſt men ſhould have their mouthes ſtopped, as not being able juſtly to vindicate either the Parliament or any of their Miniſters in Of<g ref="char:EOLhyphen"/>fice. But yet give me leave here alſo to expreſſe my
+<pb n="25" facs="tcp:116769:15"/> hearty wiſhes, which are, that the Honorable Court of Parliament wold think of ſome way wherein it may be declared, and clearly ſhewed to the people, how none of them hath hitherto, nor never will imploy a<g ref="char:EOLhyphen"/>ny of the publick treaſury of the Kingdome, to their owne private uſes, except what part thereof they may juſtly chalenge as their due. I think I may be very con<g ref="char:EOLhyphen"/>fident in affirming; that if Parliament men were now and then in ſuch companies as we meet with, and did there heare what we doe; for want of this thing, they would with indignation caſt off thoſe reproaches, and with that good Judge <hi>Samuel,</hi> would vindicate them<g ref="char:EOLhyphen"/>ſelves, ſaying, Whom have we wronged? and where is the man that can prove we have imployed the pub<g ref="char:EOLhyphen"/>lick intereſt to our private ends, and it ſhall be reſto<g ref="char:EOLhyphen"/>red three or ſeven fold? I profeſſe, for want of ſomthing done herein, oftentimes their beſt friends are at a ſtand, not having a word to ſay in their behalfe. But if yet we want of our expectation herein, is it not for beter ſtating our grievance by way of remonſtrance and humble petition to have our grievances removed, then by making inſurrections and tumults, whereby inno<g ref="char:EOLhyphen"/>cent blood oft falls to the ground. Pardon the digreſ<g ref="char:EOLhyphen"/>ſion, it being done purpoſely that one noble Gentle<g ref="char:EOLhyphen"/>man or other belonging to that Houſe, caſting his eye hereon, may acquaint others therof, that in time it may be of ſome uſe in cauſing the work to be ſet forward.</p>
+            <p>I ſhall now give you anſwer to the objection: The ſcope of our oath is, that wee ſhould doe nothing to the prejudice of the Corporation, nor a<g ref="char:EOLhyphen"/>gainſt the government thereof; wherefore let what is here done, be carried to the ballance, and weighed. As to the matter of partiality, in calling ſome, and not
+<pb n="26" facs="tcp:116769:16"/> other of the members to the meeting, I cleare the So<g ref="char:EOLhyphen"/>ciety thereof it ſo far, as that I tell you, herein I am perſwaded better things of them, then ſo to order it.</p>
+            <p>And then as to the other matter, indeed ſome may take exception, and pick a quarrell with me, in that ſpeaking of the incivility of ſome, I ſeem to charge them with not reproving thereof. To which I anſwer, I mean not the Court) in that paſſage, it being ſpoken out of their hearing; but I wonder ſuch paſſages ſhould be unreproveable from ſome others that ſtood by when they were ſpoken. And as to the reſt of the par<g ref="char:EOLhyphen"/>ticulars, to which I ſpeak, they were met withall with<g ref="char:EOLhyphen"/>out dores, having to doe only with one elder brother, and nothing neere the one halfe of the younger bro<g ref="char:EOLhyphen"/>thers, or the reſt of that Society: and if this be contra<g ref="char:EOLhyphen"/>ry to my oath, I am yet to diſtinguiſh between light and darkneſſe: Yet further (by what I have heard) the Court or the moſt of the elder brothers did not own the paper, and I hope never will, that nor any thing elſe that may cauſe the to be miſtruſted: as thoſe that would ſeem to ſtand as newters. And while I am mentioning thoſe aged or Elder ones, <hi>Solomons</hi> paſſage comes to my minde,<note place="margin">Prov. 16.3.</note> 
+               <hi>The hoary head is a crown of glory if it be found in a way of righteouſneſſe.</hi> Then God forbid thoſe ſhould be found out of that way in a way that inclines to deteſtable newtrality in this cauſe, which by lift<g ref="char:EOLhyphen"/>ing up their hands to God, they have acknowledged ſo much concerns his glory.</p>
+            <p>
+               <label>
+                  <hi>Queſtion</hi> 1.</label> But ſome may ask, Is not the caſe al<g ref="char:EOLhyphen"/>tered?</p>
+            <p>
+               <label>Anſw.</label> Yes ſomewhat, in regard that whereas here<g ref="char:EOLhyphen"/>tofore the Earle of
+<hi>Mrrlbrough</hi> was ſeeking to deſtroy us by Sea, and the Lord <hi>Hopton</hi> and
+<hi>Culpepper</hi> the King<g ref="char:EOLhyphen"/>dome
+<pb n="27" facs="tcp:116769:16"/> by land: now it is reported that the Earle of <hi>Marlbrough</hi> is about the ſame work by Land, and the Lord <hi>Hopton</hi> and his Company is upon the ſame de<g ref="char:EOLhyphen"/>ſigne by Sea: So the caſe is altered, but the cauſe is the ſame.</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> 2.</label> But now thoſe pretend to be for a perſo<g ref="char:EOLhyphen"/>nall treaty, and ſo for peace.</p>
+            <p>
+               <label>Anſw.</label> Oh that there were in them ſuch a diſpoſi<g ref="char:EOLhyphen"/>tion! As we uſe to ſay, there is a great deale of diffe<g ref="char:EOLhyphen"/>rence between ſaying and doing, or between pretend<g ref="char:EOLhyphen"/>ing to doe a thing, and doing it really. We know <hi>E<g ref="char:EOLhyphen"/>hud</hi> pretended faire to King <hi>Eglon,</hi> till he had his op<g ref="char:EOLhyphen"/>portunity, and then he thruſt the Dagger to his heart. To come a little neerer, even to ſome of the aforena<g ref="char:EOLhyphen"/>med perſons: We know, or at leaſt may know, the Earle of
+<hi>Marlbrough</hi> came towards the ſhip <hi>Merchant Bona<g ref="char:EOLhyphen"/>venture</hi> (as if he were for peace, with the Banner of St. <hi>George</hi> in his Main Top, even till the Maſter of the other ſhip was provided to drink to him: But when the Earle thought he could make ſure prize of him, he then changed his Banner, and like a Beare robbed of her Whelps, teares the ſhip both with great Gunnes and ſmall, and thereby the poore man, that thought his pre<g ref="char:EOLhyphen"/>tending and doing would be alike, loſt not onely his own life, but ſome other men loſt their lives alſo.</p>
+            <p>Again, did not the Lord <hi>Goring</hi> and his Company at the entry into <hi>Colcheſter,</hi> pretend a great deale of good will to the inhabitants? But now how many of them cry out, Our Houſes are burnt, and otherwiſe our wrongs by them have been ſo exceeding great, that we may bewaile our ſelves, as <hi>Jeremy</hi> in his <hi>Lamentations,</hi>
+               <note place="margin">Lam.
+1.1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Is it nothing to you, all you that paſſe by? Behold and ſee, Is there any ſorrow like unto our ſorrow?</hi> and all becauſe <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:116769:17"/> were caught with the faire pretences of that party, and did not joyn heart &amp; hand to keep out the co<g ref="char:cmbAbbrStroke">̄</g>mon ene<g ref="char:EOLhyphen"/>my. And to come a little neerer, Do not ſome of them that went down into the <hi>Downes,</hi> with confidence that if they met with the revolted Ships, they ſhould ſuffer nothing by the<g ref="char:cmbAbbrStroke">̄</g>, now adviſe their friends, how that their ammunition and proviſion is taken away; ſo that their voyages at leaſt are overthrowne, and they feare all will be loſt. If yet mens eyes be not opened to ſee, it is high time to be ſtirre themſelves. I would ſound an alarm to my friends of the Navigation; but becauſe I would not be too tedious, conſider ſome of the Heads of what I would ſpeak to, in caſe we now ſit ſtill, is is not like to be of very ill conſequence?</p>
+            <p>As firſt, Will not thoſe Merchants, in whoſe imployment (under God wee have gained ſome<g ref="char:EOLhyphen"/>thing, be ready to charge us with extreame ingrati<g ref="char:EOLhyphen"/>tude, that now their goods are already taken by the Re<g ref="char:EOLhyphen"/>volters, and are like more and more ſo to be, and they have no way to have it helped, but by our endeavours to redeem the prey out of their hands that have taken it, and remedy the like for the future. I ſay, if now we ſhould ſit ſtill, like thoſe that owed them no kinde of ſervice, appearing like them that cared not for their de<g ref="char:EOLhyphen"/>ſtruction, but laughed when the feares of their loſſes came upon them. I appeale to you, will they not do as aboveſaid?</p>
+            <p>
+               <label>
+                  <hi>Object.</hi> 9.</label> Some Merchants are ſo far from encoura<g ref="char:EOLhyphen"/>ging us to goe againſt the revolted ſhips, that it is ex<g ref="char:EOLhyphen"/>preſſed often by them, they hope Seamen have more wit then to fight one againſt another.</p>
+            <p>
+               <label>Anſw.</label> No man would willingly fight and ſhed blood, if any fairer meanes would ſerve turn, (as Indemnity, and the like) but if no ſuch meanes will doe, another
+<pb n="29" facs="tcp:116769:17"/> courſe muſt be taken, and I warrant you when ſuch men feel the ſmart, received by their loſſes, &amp; you get their eſtates redeemed out of the hands of thoſe aboard the revolted Ships, then they will be ſo farre from ſaying you have done ill, that contrarily they will ſay you are, and think you to be the braveſt men in the world.</p>
+            <p>But ſecondly, if we act not to cleare the way for our ſhipping to paſſe to and from the Sea without ſurpri<g ref="char:EOLhyphen"/>zall, it will neceſſarily follow, the Merchants will ſhip off no goods, and conſequently the ſhipping (wherein the Seamen are not a little concerned) muſt as we uſe uſe to ſay) lye by the walls, and in their roomes ſtran<g ref="char:EOLhyphen"/>gers be frhaigted to carry Merchans goods from the vintage to the Weſt of <hi>England;</hi> whereby it's like
+<hi>Lon<g ref="char:EOLhyphen"/>don</hi> will be ſerved over land, although to their great coſt: and then how many other are the inconveniences that will follow thereupon? I ſhall name onely three.</p>
+            <p>The Clothiers, and many others that uſe to vent their wares at <hi>London</hi> to Merchants for tranſportation beyond the Seas, muſt deſiſt, and conſequently the mul<g ref="char:EOLhyphen"/>titudes of poore imployed that way, will cry out a<g ref="char:EOLhyphen"/>gainſt thoſe that have been the Obſtructors of the Trade.</p>
+            <p n="2">2. Again, will not the Manuall Craftſmen about <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the poore under them, groan for want of im<g ref="char:EOLhyphen"/>ployment, when ſhipping ſhall not goe to and againe, as uſually, and lament of thoſe that are the cauſe thereof.</p>
+            <p n="3">3. Will not ordinary Marriners, that by conſe<g ref="char:EOLhyphen"/>quence muſt want imployment, and they being not u<g ref="char:EOLhyphen"/>ſualy ſo provident as others, to lay up againſt ſuch a time of neceſſity, run to other parts and places of the Kingdome to look imployment; or, which is worſe,
+<pb n="30" facs="tcp:116769:18"/> nto other Countries, leaving their poore Families to cry out under wants, againſt them that have been the cauſe of this great ſtop of trade, and we know that <hi>heer yes of the poore and needy come up into the eares of the Lord of Hoſts.</hi>
+               <note place="margin">Pſal. 12.5.</note> Oh then let us not be counted the cauſe of theſe evils, but in time let us beſtirre our ſelves in a way of endeavouring the reducing of the revolters, be<g ref="char:EOLhyphen"/>fore it be too late: and if men will yet be obſtinate, give me leave to tell you what I think of,<note place="margin">Eſth. 4.14.</note> If we be al<g ref="char:EOLhyphen"/>together ſilent, or Newters at this time, even <hi>Morde<g ref="char:EOLhyphen"/>cai's</hi> anſwer to <hi>Eſther, Think not you ſhall eſcape in the Kings houſe,</hi> or if you will under a pretence you are for the Kings cauſe, <hi>God will cauſe enlargement and delive<g ref="char:EOLhyphen"/>rance to come ſome other way.</hi>
+            </p>
+            <p>
+               <label>Queſt.</label> But how is it likely? <hi>Anſw.</hi> I cannot very well tell: But me thinkes God that hath done ſo much for his people as he hath done of late for us, will yet doe more (although by very deſpicable means) how ever our ſinnes may be the cauſe, our hope of outward proſperity may be diverted: And although I &amp; thou<g ref="char:EOLhyphen"/>ſands of other men periſh, however the Lord will carry on his owne worke. Beleeve mee friends, God will not anſwer the wiſhes of <hi>Mercurius Aulicus</hi> in his pamphlet this week, no he will not ſtand as Newter in theſe differences. Which paſſage while I am men<g ref="char:EOLhyphen"/>tioning, me thinkes many of the very Heathens would bee aſhamed of ſuch an expreſſion, I pray God lay it no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to our charge that in a Chriſtian Citie, where there are ſo many differing in judgment, one ſpeaking againſt <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Fresbyterians,</hi> and another ſpeaking againſt thoſe they call
+<hi>Independents;</hi>
+               <note place="margin">Pſal. 50.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and its feared moſt ſpeake a<g ref="char:EOLhyphen"/>gainſt both: yet it's thought many ſpeake not againſt this kinde of blaſphemy, or theſe kinde of blaſphemers, of which ſaith
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſalmiſt, <hi>And becauſe God keepes ſi<g ref="char:EOLhyphen"/>lence,
+<pb n="31" facs="tcp:116769:18"/> they think he is altogether ſuch a one as themſelves: but if men will reprove them, and ſet their faults in order before their eyes, &amp;c.</hi> All ſuch would doe well to read the next words.</p>
+            <p>Yet before I paſſe along (friends) mark, they wiſh God may ſtand as Newter, by which expreſſion they acknowledge God is againſt them.<note place="margin">Iob. 9.4.</note> O then what mad men are theſe to goe on in ſuch a way? us <hi>Job</hi> ſaith, <hi>Who ever hardened himſelfe against God and proſpered?</hi>
+            </p>
+            <p>I am come now to anſwer the ſecond part of the ob<g ref="char:EOLhyphen"/>jection, in theſe words: <hi>You deſire a reformation in Of<g ref="char:EOLhyphen"/>ficers to be put in truſt, that your ſelfe may have ſome prefer<g ref="char:EOLhyphen"/>ment therein.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Is this a courſe to obtaine ſuch an end? Should a man run to the fire to be quenched, or runne into a hedge of thornes to finde a better way? Again, did you never heare how hee that ſpeaketh the truth from his heart, makes himſelfe but a prey. Me thinkes common Reaſon ſhould teach men that in theſe times wherein the raines of government are ſo far let looſe, that hardly any thing done or ſaid will pleaſe men, men ſhould be ſo far from having ſuch thoughts of o<g ref="char:EOLhyphen"/>thers (eſpecially if they have any calling or way to live and imploy themſelves in) that contrarily they ſhould think all would make excuſe one after another, What ſhall I leave my Calling wherein I have liberty to honour God, and ſerve men, and go &amp; be promoted over others at ſuch a time? But for further anſwer, I ſhal ſay no more then what is expreſſed in my <hi>Apologie</hi> to the <hi>Reader.</hi> For if a man ſhould make all the aſſevera<g ref="char:EOLhyphen"/>tions and proteſtations in the world, ſome would hard<g ref="char:EOLhyphen"/>ly beleeve him, the diſeaſe is ſo <hi>Epidemicall</hi> for men to look after honour and great things in the world, that not onely <hi>Mucknall,</hi> for whom the Eaſt <hi>India</hi> Compa<g ref="char:EOLhyphen"/>ny
+<pb n="32" facs="tcp:116769:19"/> had done ſo well for, appeares guilty thereof: But it is feared others that the Parliament of <hi>England</hi> hath advanced, are likewiſe troubled with the ſame maladie. For the clearing of which, I wiſh they had ſounded in their eares, or rather into their hearts and conſciences, ſome of the deceaſed Mr. <hi>Burtons</hi> obſervations upon
+<hi>Solomons</hi> words:<note place="margin">Prov.</note> 
+               <hi>My ſon, feare thou the Lord and the King, and meddle not with them that are given to change: for their calamity ſhall riſe ſuddenly, and who knoweth the ruine of them both?</hi> Though this place ſeemes at firſt glance to make for them, they would then be convinced their go<g ref="char:EOLhyphen"/>ing to the other ſide, contrary to covenant, were as contrary to the ſcope of the words as poſſibly may be.</p>
+            <p>Friends, is this a time to look after great things? (what) while not an <hi>Egyptian</hi> &amp; an <hi>Iſralite</hi> are one ſeek<g ref="char:EOLhyphen"/>ing to deſtroy the other, but theſe of one and the ſame nation are putting peace far away from them, endea<g ref="char:EOLhyphen"/>vouring daily to dig out the heart blood of each other: inſomuch that if any loved our Country as <hi>Jobs</hi> friends loved him, &amp; came among us, they would, as men aſtoni<g ref="char:EOLhyphen"/>ſhed (if not ſit down and ſpeak not a word for 7 dayes and 7 nights together) yet if they did ſpeak, it is likely it would be ſomwhat like the Prophet
+<hi>Jeremies</hi> ſpeech: <hi>My bowels, my bowels, I am pained at the very heart; my heart maketh a noyſe in me, I cannot hold my peace, becauſe thou haſt heard,</hi>
+               <note place="margin">Ieremy.</note> 
+               <hi>O my ſoule, the ſound of the trumpet, and the A<g ref="char:EOLhyphen"/>larm of warre; deſtruction here is upon deſtruction, and the whole land is like to be ſpoyled:</hi> eſpecially if they ſhould goe abroad, and ſee parties meet, and as thoſe that went to a play, or a ſport, <hi>as the young men</hi> we read of before <hi>Abner</hi> an <hi>Joab</hi> 2
+<hi>Sam,</hi> 2.14, 15, 16. <hi>ſuddenly each man taking hold of the other, and ſheathing their ſwords in one anuthers ſides:</hi> but more eſpecially if they ſhould take
+<pb n="33" facs="tcp:116769:19"/> notice of our battels, and the iſſue of them often<g ref="char:EOLhyphen"/>times both by Sea &amp; Land (we wonder now and then at the ſudden death of a man) but there they ſhould ſee hundreds of healthy, ſtout, and ſtrong men ſtruck dead in the twinkling of an eye, without ſo much as <hi>Lord have mercy upon us:</hi> in the Camp oft like what <hi>Job</hi> ex<g ref="char:EOLhyphen"/>preſſeth,
+<hi>Job</hi> 3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. from v. 18. to 25. and in all battels of<g ref="char:EOLhyphen"/>tentimes ſome ſeen with their armes ſtruck off from their ſhoulders, another is by him that hath loſt his leg: here one with halfe a ſace, there another fighting upon his ſtumps; a little further another diſcharging his Musket, is diſcharged of his life. And doe you think this is a time for Chriſtians to ſeek after great things for themſelves? God forbid this ſhould grow into cu<g ref="char:EOLhyphen"/>ſtome.</p>
+            <p>
+               <label>Obj.</label> But why do you put your hdnd to it? Is it not out of pride, or ſome ſelfiſh end or other? <hi>Anſ.</hi> God knows I have bin willing enough to eſchue putting my hand: not that I was afraid to prove any thing of what I have ſaid; but all our natures are oft timerous to meddle and own ſuch matters as theſe are, fearing <hi>Solo<g ref="char:EOLhyphen"/>moms</hi> words ſhould prove true, <hi>Rebuke a ſcorner and hee will ſcorn thee,</hi> In fine, perſwaſion of ſome friends pre<g ref="char:EOLhyphen"/>vailed with me, the rather conſidering that otherwiſe it would be counted a pamphlet, and ſo throwne aſide without doing any good; eſpecially if it had not been licenſed by thoſe the Parliament hath appointed to ſuch purpoſes, which I judge would not in likelihood have been without my hand were to it: and withall I was induced to it from the remembrance of another paſſage of <hi>Solomons, If a mans wayes pleaſe the Lord, Hee will make his enemies his friends.</hi>
+            </p>
+            <p>
+               <pb n="34" facs="tcp:116769:20"/>I have <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> purpoſely to ſhow men the evill of that ſo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligion) that ſo much
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to be among us of the Na<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gation; <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſome objections, one is being this, That it is not <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beeing religione, but for being ſingular, and N<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n co<gap reason="illegible" resp="#OXF" extent="8 letters">
+                  <desc>〈8 letters〉</desc>
+               </gap>. In my anſwer thus I argue:
+<hi>The Cr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, (cal<g ref="char:EOLhyphen"/>led f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rme<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly that innocent Ceremony) to hang about ones necke, or at ones wriſt; <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o naturall reaſon is of good uſe, to put us in mind of Chriſt and bis paſſion.</hi> Q<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt. <hi>Why th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n is it laid aſide by the Church of En<g ref="char:EOLhyphen"/>gland?</hi> Anſwer., <hi>as upon this ground, Becauſe God requires no ſuch thing at our hands; ſo th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> although ('tis naturall reaſon) many other formes contended for among as, are fit to promote devotion, yet by the ſame Rule they are not to be laid aſide, or at leaſt we are not to quarrell with o<g ref="char:EOLhyphen"/>thers for non conforming to them, eſpecially when as we cannot clrarly ſhew, that that God that hath commanded us to worſhip him in ſpirit and truth, and hath ſaid, he ſeeketh ſuch worſhippers, doth yet require us to ſerve him in ſuch and ſuch formes as we would have.</hi>
+            </p>
+            <p>But becauſe my Book begins to ſwell, and the worke doth more properly belong to Divines, I ſhall now wave it, with this expreſſion, <hi>Sea-men goe down into the Sea, and compaſſe it about from one end of the earth to another, having but a plank between them and death, and in their Traviſe are ſubject to many perils, beſides th t which is very ordinary the ſpringing of a leake, which oftimes growes bigger and bigger, till the Sailes like Pharaohs c a
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot wheels, can carry or d ive the ſhip or veſſel no further, but incontin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly like a ſtone, all ſinks down to the bottom without recovery</hi> Now then, would it not be a ſad thing, that we who are oft delive<g ref="char:EOLhyphen"/>red from ſuch caſu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lties, ſhould yet be judg'd as looſe, prophane, and a great if not greater ſcoſſers at God and goodneſſe, then any o<g ref="char:EOLhyphen"/>ther in the kingdome.</p>
+            <p>To winde up all with a word of advice, although a<g ref="char:EOLhyphen"/>mongſt Papiſts it's accounted hereſie for Lay-men to meddle with Scripture, and wee are fallen into ſuch times wherein are ſuch out-cries of <hi>Heretickes,</hi> and <hi>Hereſies,</hi> that were never heard of, or leaſt uſed to be ſo tearmed in the primitive times, moſt being like thoſe at the tumult of
+<hi>Epheſus,</hi> knowing not wherefore; yet I hope it will not be accounted Hereſie in me, to bor<g ref="char:EOLhyphen"/>row
+<pb n="35" facs="tcp:116769:20"/> a few Scripture expreſſions to expreſſe my ſelfe in that way. My friends, or if you will have it in that word ſo much ſcoffed at, <hi>My Brethren,</hi>
+               <note place="margin">Heb. 13.1.</note> 
+               <hi>bee not provoked to wrath, but let brotherly love continue.</hi> In reference to to my ſelfe I am neither fearfull nor carefull what ever clamours I meet withall from thoſe furious fooles whoſe rage is above and beyond reaſon, conſidering that place I have often thought of both at Sea and a ſhore, <hi>The waves of the Sea are mighty,</hi>
+               <note place="margin">Pſal. 93 4.</note> and ſo often<g ref="char:EOLhyphen"/>times are the waves of mens proud mindes, <hi>and they rage horribly, but the Lord above is Mightier,</hi> and when hee pleaſeth (as in another place) <hi>ſtilleth the raging of the Sea, the roaring of the waves, and the mad<g ref="char:EOLhyphen"/>neſſe of the people.</hi> In reference to your ſelves, I ſay,<note place="margin">Pſal. 65.1.</note> be not provoked to wrath, leſt ye heap coals of fire upo<g ref="char:cmbAbbrStroke">̄</g> your own heads. Beleeve it friends, they that joyn with, or connive at Revolters, or any other that are about raiſing of a n<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> war, to troub e &amp; oppreſſe Gods good people, that ould live quietly and peaceably in the land, they were
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt to conſi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r what they doe; <hi>For the Eternall</hi> GOD <hi>hath ſpoke it by his Holineſſe,</hi> and ſaid, <hi>(wherein ſuch kinde of perſons are proud) Hee will bee above them.</hi> Againe, as I wiſh you not to bee provoked unto wrath, ſo I wiſh you not to provoke one another unto wrath: For it may bee, ſeeing ſome<g ref="char:EOLhyphen"/>what of evill conſequence come to paſſe by reaſon of what hath bin done, and is in this Treatiſe ſomuch ſpo<g ref="char:EOLhyphen"/>ken againſt, ſome may be ready to lay the blame on o<g ref="char:EOLhyphen"/>thers, as <hi>Joſephs</hi> brethren one upon another but it ought not ſo to be, I have been taught a better L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſon, and you may learn it alſo if you pleaſe; that
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ee are Chriſtians, our duty is to
+<hi>conſider</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>,<note place="margin">Heb.
+10.24.</note> 
+               <hi>that wee may provoke one another to
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to
+<pb n="36" facs="tcp:116769:21"/> good workes.</hi>
+               <note place="margin">Pſal. 133.1.</note> 
+               <hi>O how amiable it is for all</hi> eſpecially <hi>for Brethren to live together in unitie!</hi> Let us there<g ref="char:EOLhyphen"/>fore live and <hi>love without diſsimulation;</hi>
+               <note place="margin">Rom 12.9.</note> yea, let mee further adviſe, Me thinkes it is no Atheiſme, though it may be ſcorned at, and charged with folly, (if not in after times with Hereſie) To ſeeke unto God, that whilſt many have been like <hi>Nimrod</hi> the mighty Hun<g ref="char:EOLhyphen"/>ter, towring up Bables of ſelfe-intereſt to them<g ref="char:EOLhyphen"/>ſelves, and God hath throwne them downe as faſt; and whileſt we are broken to pieces by diviſion and ſubdiviſion, and daſhing our ſelves more and more to peeces, like a Potters veſſell; hee would bee pleaſed to ſhew forth the riches of his Grace, and the ex<g ref="char:EOLhyphen"/>ceeding greatneſſe of his wiſdome in making us up, and joyning us together again. To which end, let us further pray,<note place="margin">Pſal. 72.1.</note> 
+               <hi>Lord, give thy judgements unto the King, and thy righteouſneſſe unto the Kings ſonne. Let the Mouncaines</hi> of the Parliament <hi>bring us peace,</hi>
+               <note place="margin">Iſai. 1.25, 26.</note> and the <hi>little hils</hi> thereof
+<hi>righteouſneſſe; Take away all our droſſe, and purge away our Tinne, reſtore us Judges as at the firſt, and Councellors as at the beginning,</hi> that the helpleſſe
+<hi>folk, and the poore may receive their right, and the wrong doer may be puniſhed.</hi>
+               <note place="margin">Pſal. 72.12</note> 
+               <hi>In their time let the righteous ſlou<g ref="char:EOLhyphen"/>riſh, that God may bee glorified, wee may have abundance of peace as long as we and our poſterity ſhall have any Being.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="authors_note_on_the_text">
+            <p>I ſhall not now vigilantly over-look what faults may be in the phraſes, or other<g ref="char:EOLhyphen"/>wiſe by the Printer, an ingenious Reader will connive at them, coming from a Seaman. But were the Title page yet to print, I ſhould adde to the Title: a friend of mine would needs give the Book thus:
+<q>Down right Dealing; <hi>or,</hi> a word ſpoken from the Heart,</q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
